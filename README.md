@@ -5,13 +5,13 @@ Find dates for exams at UniPD
 ## Usage
 
 ```sh
-./finder.py corurses.csv
+./finder.py courses.csv
 ```
 
 It's suggested to save output to a file:
 
 ```sh
-./finder.py corurses.csv > results.txt
+./finder.py courses.csv > results.txt
 ```
 
 ### Input example
